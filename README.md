@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladgelson&label=Profile%20views&color=0e75b6&style=flat" alt="ladgelson" /> </p>
 
-- 🔭 I’m currently working on [JUSTTO](https://justto.com.br/)
+- 🔭 I’m currently working on [Accenture](https://www.accenture.com/br-pt)
 
 - 🌱 I’m currently learning **Vue3/React to frontend and Spring Boot to backend**
 

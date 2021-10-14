@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue3/React to frontend and Spring Boot to backend**
 
-- 🤝 I’m looking for help with [Laila](http://200.129.3.5:8080/#/)
+- 🤝 I’m looking for help with Laila
 
 - 📫 How to reach me **micaiasladgelsondasilva@gmail.com**
 

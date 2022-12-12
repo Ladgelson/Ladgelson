@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/micaiasladgelson/](https://www.linkedin.com/in/micaiasladgelson/)
 
-- ⚡ Fun fact **I like cats so much that my graduation paper is called Laila and she's a cat.**
+- ⚡ Fun fact **I like cats so much thats why my graduation paper was called Laila. It was the name of a cat I had.**
 
 ## 
 

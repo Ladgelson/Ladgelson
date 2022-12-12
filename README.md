@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladgelson&label=Profile%20views&color=0e75b6&style=flat" alt="ladgelson" /> </p>
 
-- 🔭 I’m currently working on Meta
+- 🔭 I’m currently working on **Datum TI, Allocated in Digio Bank**
 
 - 🌱 I’m currently learning **Microservices and Distribuited Systems**
 
